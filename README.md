@@ -22,6 +22,6 @@ Both are fine.
 Work in progress.  
 Confidence sold separately.
 
-Linked list: [linked-list](linked-list/README.md)
-Stack: [stack](stack/README.md)
-Queue: [queue](queue/README.md)
+Linked list: [linked-list]("Linked List/README.md")
+Stack: [stack](Stack/README.md)
+Queue: [queue](Queue/README.md)
