@@ -26,3 +26,4 @@ Confidence sold separately.
 * [Linked List](./Linked%20List/README.md)
 * [Stack](./Stack/README.md)
 * [Queue](./Queue/README.md)
+* [Hash Map](./HashMap/README.md)
